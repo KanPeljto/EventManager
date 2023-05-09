@@ -1,0 +1,51 @@
+body{
+    background: url('../images/slika2.jpeg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+div.loginHeader{
+    text-align: center;
+    margin: 0px;
+    font-size: 30px;
+    color: white;
+
+
+}
+
+div.logoText h1{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+
+div.loginHeader h3{
+    border-bottom: 10px solid crimson;
+    width: 80%;
+    margin:0 auto;
+    
+}
+
+div.loginBody form{
+    margin: auto;
+    width: 600px;
+    background: rgb(1,0,0);
+    padding: 45px;
+    text-align: center;
+
+}
+
+div.loginInput{
+    color: white;
+    display: block;
+}
+
+div.loginButton{
+    margin-top: 40px;
+    text-align: center;
+}
+
+div.loginButton button{
+    font-size: 20px;
+    padding: 10x 25px;
+    border: none;
+}
